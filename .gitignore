@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#On macOS, Desktop Services Store contains information about comp system configuration and settings
+.DS_Store
+
 # Distribution / packaging
 .Python
 build/
